@@ -41,6 +41,9 @@ h2{
     filter: grayscale(100);
     transition-property: transform, filter;
     transition-duration: 1s;
+
+    border-radius: 1em;
+    
     display: block;
     -o-object-fit: cover;
        object-fit: cover;
